@@ -10,3 +10,5 @@ AutoThis Google Apps Script automates sending an email notification to customers
 ✔️ Customizable email templates
 
 ✔️ Easy setup with minimal coding required
+
+Perfect for small businesses looking to streamline order notifications! 🚀
